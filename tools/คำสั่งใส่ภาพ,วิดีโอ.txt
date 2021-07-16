@@ -1,0 +1,16 @@
+***คำสั่งใส่ภาพ***
+<p>
+<img src="/images2/scale.jpg" alt="" width="100%" height="100%"/>
+</p>
+#ชี้แจง ใส่ width และ height เป็น % ตามขนาดที่ต้องการสูงสุด100%
+
+***คำสั่งใส่วิดีโอ***
+<p>
+<video width="100%" height="100%" controls="controls">
+<source src="/video2/test.mp4" type="video/mp4"></video>
+</p>
+#ชี้แจง ใส่ width และ height เป็น % ตามขนาดที่ต้องการสูงสุด100% ไฟล์ MP4
+
+***คำสั่งพื้นฐาน***
+https://sites.google.com/a/chaiwit.ac.th/html5/kha-sang-html
+หรือหาใน google 
